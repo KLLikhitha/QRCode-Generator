@@ -1,6 +1,9 @@
-# QRCode-Generator
+# QR Code Generator
 
-A Simple web application which generates QR Code.
+###### A Simple web application that generates a QR Code
 
 -----------------------------------------------------------
-Techs Used:
+Tech Stack Used:
+.HTML5
+.CSS3
+.Java Script
